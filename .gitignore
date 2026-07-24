@@ -1,0 +1,8 @@
+bin/
+obj/
+publish/
+*.zip
+.vs/
+.vscode/
+*.user
+.DS_Store
